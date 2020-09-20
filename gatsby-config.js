@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Protosite`,
+    description: `A gatsby and netlify sandbox`,
     author: `@gatsbyjs`,
   },
   plugins: [
@@ -30,7 +30,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
-        id: "GTM-53PV5S8",
+        id: "GTM-MJ2LT6V",
 
         // Include GTM in development.
         //
