@@ -32,6 +32,7 @@ module.exports = {
       options: {
         id: "GTM-M699BXV",
         includeInDevelopment: false,
+        defaultDataLayer: { platform: "gatsby" },
       },
     },
   ],
